@@ -18,3 +18,5 @@ group :staging do
 	gem 'activerecord-postgresql-adapter'
 	gem 'rails_12factor'
 end
+
+gem 'apartment'
